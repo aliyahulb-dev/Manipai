@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Manip AI - Advanced AI Chatbot powered by Anthropic Claude">
+    <title>Manip AI</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="app" class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <span class="logo-icon">🤖</span>
+                    <h1>Manip AI</h1>
+                </div>
+                <button class="new-chat-btn" onclick="startNewChat()">+ New Chat</button>
+            </div>
+
+            <div class="conversations-list" id="conversationsList">
+                <!-- Conversations will be loaded here -->
+            </div>
+
+            <div class="sidebar-footer">
+                <button class="settings-btn" onclick="openSettings()">⚙️ Settings</button>
+                <button class="logout-btn" onclick="logout()">🚪 Logout</button>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-container">
+            <!-- Authentication View -->
+            <div id="authView" class="auth-view">
+                <div class="auth-card">
+                    <h2>Welcome to Manip AI</h2>
+                    <p>Advanced AI Chatbot powered by Anthropic Claude</p>
+
+                    <div class="auth-tabs">
+                        <button class="tab-btn active" onclick="switchTab('login')">Login</button>
+                        <button class="tab-btn" onclick="switchTab('register')">Register</button>
+                    </div>
+
+                    <!-- Login Form -->
+                    <form id="loginForm" class="auth-form active" onsubmit="handleLogin(event)">
+                        <input type="email" placeholder="Email" required>
+                        <input type="password" placeholder="Password" required>
+                        <button type="submit">Login</button>
+                    </form>
+
+                    <!-- Register Form -->
+                    <form id="registerForm" class="auth-form" onsubmit="handleRegister(event)">
+                        <input type="text" placeholder="Username" required>
+                        <input type="email" placeholder="Email" required>
+                        <input type="password" placeholder="Password" required>
+                        <input type="password" placeholder="Confirm Password" required>
+                        <button type="submit">Register</button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Chat View -->
+            <div id="chatView" class="chat-view hidden">
+                <div class="messages-container" id="messagesContainer">
+                    <!-- Messages will be displayed here -->
+                </div>
+
+                <div class="input-container">
+                    <form onsubmit="sendMessage(event)">
+                        <textarea id="messageInput" placeholder="Type your message..." rows="3"></textarea>
+                        <button type="submit" id="sendBtn">Send</button>
+                    </form>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Settings Modal -->
+    <div id="settingsModal" class="modal hidden">
+        <div class="modal-content">
+            <h2>Settings</h2>
+            <form onsubmit="saveSettings(event)">
+                <div class="setting-group">
+                    <label>Theme</label>
+                    <select id="themeSelect">
+                        <option value="dark">Dark</option>
+                        <option value="light">Light</option>
+                    </select>
+                </div>
+
+                <div class="setting-group">
+                    <label>Language</label>
+                    <select id="languageSelect">
+                        <option value="en">English</option>
+                        <option value="es">Español</option>
+                        <option value="fr">Français</option>
+                    </select>
+                </div>
+
+                <div class="setting-group">
+                    <label>
+                        <input type="checkbox" id="notificationsToggle">
+                        Enable Notifications
+                    </label>
+                </div>
+
+                <button type="submit">Save Settings</button>
+                <button type="button" onclick="closeSettings()">Close</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
