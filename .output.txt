@@ -1,273 +1,952 @@
-Command finished with exit code 128.
+Command finished with exit code 0.
 Command output:
-warning: in the working copy of '.idea/misc.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/AndroidManifest.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/MainActivity.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/data/models/UserModels.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/di/NetworkModule.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/ui/auth/LoginScreen.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/ui/auth/RegisterScreen.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/ui/chat/ChatScreen.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/ui/chat/ConversationListScreen.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/ui/settings/SettingsScreen.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/src/main/java/com/manipai/ui/settings/SettingsViewModel.kt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'public/css/style.css', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'public/js/app.js', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'server.js', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of '.junie/plans/native-android-migration-plan.md', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/.gradle/kotlin/errors/errors-1781415012590.log', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/.gradle/kotlin/errors/errors-1781415176099.log', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/Hilt_MainActivity.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/MainActivity_GeneratedInjector.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/MainActivity_MembersInjector.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ManipAIApplication_GeneratedInjector.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/data/TokenManager_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/data/api/AuthInterceptor_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/data/repository/AuthRepository_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/data/repository/ChatRepository_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/data/repository/UserRepository_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/data/socket/SocketManager_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideAuthServiceFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideChatServiceFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideLoggingInterceptorFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideOkHttpClientFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideRetrofitFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideSocketFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideUserServiceFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/auth/AuthViewModel_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/auth/AuthViewModel_HiltModules.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/auth/AuthViewModel_HiltModules_KeyModule_ProvideFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/chat/ChatViewModel_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/chat/ChatViewModel_HiltModules.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/chat/ChatViewModel_HiltModules_KeyModule_ProvideFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/settings/SettingsViewModel_Factory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/settings/SettingsViewModel_HiltModules.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/com/manipai/ui/settings/SettingsViewModel_HiltModules_KeyModule_ProvideFactory.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/dagger/hilt/internal/aggregatedroot/codegen/_com_manipai_ManipAIApplication.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_MainActivity_GeneratedInjector.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ManipAIApplication_GeneratedInjector.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_di_NetworkModule.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_auth_AuthViewModel_HiltModules_BindsModule.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_auth_AuthViewModel_HiltModules_KeyModule.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_chat_ChatViewModel_HiltModules_BindsModule.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_chat_ChatViewModel_HiltModules_KeyModule.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_settings_SettingsViewModel_HiltModules_BindsModule.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_settings_SettingsViewModel_HiltModules_KeyModule.java', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/app_metadata/debug/app-metadata.properties', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-af/values-af.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-am/values-am.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ar/values-ar.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-as/values-as.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-az/values-az.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-be/values-be.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bg/values-bg.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bn/values-bn.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bs/values-bs.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ca/values-ca.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-cs/values-cs.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-da/values-da.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-de/values-de.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-el/values-el.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es/values-es.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-et/values-et.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-eu/values-eu.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fa/values-fa.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fi/values-fi.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr/values-fr.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gl/values-gl.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gu/values-gu.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hi/values-hi.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hr/values-hr.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hu/values-hu.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hy/values-hy.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-in/values-in.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-is/values-is.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-it/values-it.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-iw/values-iw.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ja/values-ja.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ka/values-ka.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kk/values-kk.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-km/values-km.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kn/values-kn.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ko/values-ko.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ky/values-ky.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lo/values-lo.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lt/values-lt.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lv/values-lv.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mk/values-mk.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ml/values-ml.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mn/values-mn.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mr/values-mr.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ms/values-ms.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-my/values-my.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nb/values-nb.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ne/values-ne.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nl/values-nl.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-or/values-or.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pa/values-pa.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pl/values-pl.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt/values-pt.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ro/values-ro.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ru/values-ru.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-si/values-si.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sk/values-sk.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sl/values-sl.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sq/values-sq.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sr/values-sr.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sv/values-sv.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sw/values-sw.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ta/values-ta.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-te/values-te.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-th/values-th.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tl/values-tl.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tr/values-tr.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uk/values-uk.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ur/values-ur.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uz/values-uz.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v16/values-v16.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v21/values-v21.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-vi/values-vi.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zu/values-zu.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values/values.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/debug/packageDebugResources/merger.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/incremental/mergeDebugShaders/merger.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/local_only_symbol_list/debug/R-def.txt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_manifests/debug/output-metadata.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ar.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-as.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-az.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+sr+Latn.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-be.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bg.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bn.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bs.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ca.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-cs.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-da.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-de.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-el.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rAU.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rCA.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rGB.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rIN.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rXC.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es-rUS.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-et.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-eu.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fa.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fi.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr-rCA.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gl.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gu.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hi.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hr.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hu.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hy.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-in.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-is.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-it.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-iw.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ja.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ka.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kk.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-km.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kn.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ko.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ky.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lo.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lt.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lv.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mk.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ml.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mn.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mr.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ms.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-my.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nb.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ne.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nl.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-or.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pa.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pl.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rBR.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rPT.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ro.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ru.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-si.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sk.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sl.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sq.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sr.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sv.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ta.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-te.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-th.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tl.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tr.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uk.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ur.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uz.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v16.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v21.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-vi.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rCN.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rHK.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/packaged_manifests/debug/output-metadata.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/packaged_res/debug/values/values.xml', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/processed_res/debug/out/output-metadata.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/runtime_symbol_list/debug/R.txt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/source_set_path_map/debug/file-map.txt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/counters.tab', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/app/build/outputs/logs/manifest-merger-debug-report.txt', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/build/reports/problems/problems-report.html', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/gradle.properties', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/gradle/wrapper/gradle-wrapper.properties', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/gradlew', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'android/local.properties', LF will be replaced by CRLF the next time Git touches it
-Author identity unknown
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: unable to auto-detect email address (got 'aliya@LAPTOP-I2TBR672.(none)')
+[main 632b89e] Sync project: add Android app, server, and UI files
+ 950 files changed, 29886 insertions(+), 1 deletion(-)
+ create mode 100644 .env
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/Manipai.iml
+ create mode 100644 .idea/caches/deviceStreaming.xml
+ create mode 100644 .idea/deviceManager.xml
+ create mode 100644 .idea/markdown.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/studiobot.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 .junie/plans/native-android-migration-plan.md
+ create mode 100644 .output.txt
+ create mode 100644 android/.gradle/8.7/checksums/checksums.lock
+ create mode 100644 android/.gradle/8.7/checksums/md5-checksums.bin
+ create mode 100644 android/.gradle/8.7/checksums/sha1-checksums.bin
+ create mode 100644 android/.gradle/8.7/dependencies-accessors/gc.properties
+ create mode 100644 android/.gradle/8.7/executionHistory/executionHistory.bin
+ create mode 100644 android/.gradle/8.7/executionHistory/executionHistory.lock
+ create mode 100644 android/.gradle/8.7/fileChanges/last-build.bin
+ create mode 100644 android/.gradle/8.7/fileHashes/fileHashes.bin
+ create mode 100644 android/.gradle/8.7/fileHashes/fileHashes.lock
+ create mode 100644 android/.gradle/8.7/fileHashes/resourceHashesCache.bin
+ create mode 100644 android/.gradle/8.7/gc.properties
+ create mode 100644 android/.gradle/9.3.0/checksums/checksums.lock
+ create mode 100644 android/.gradle/9.3.0/checksums/md5-checksums.bin
+ create mode 100644 android/.gradle/9.3.0/checksums/sha1-checksums.bin
+ create mode 100644 android/.gradle/9.3.0/fileChanges/last-build.bin
+ create mode 100644 android/.gradle/9.3.0/fileHashes/fileHashes.lock
+ create mode 100644 android/.gradle/9.3.0/gc.properties
+ create mode 100644 android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+ create mode 100644 android/.gradle/buildOutputCleanup/cache.properties
+ create mode 100644 android/.gradle/buildOutputCleanup/outputFiles.bin
+ create mode 100644 android/.gradle/file-system.probe
+ create mode 100644 android/.gradle/kotlin/errors/errors-1781415012590.log
+ create mode 100644 android/.gradle/kotlin/errors/errors-1781415176099.log
+ create mode 100644 android/.gradle/vcs-1/gc.properties
+ create mode 100644 android/app/build.gradle
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/Hilt_MainActivity.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/MainActivity_GeneratedInjector.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/MainActivity_MembersInjector.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ManipAIApplication_GeneratedInjector.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/data/TokenManager_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/data/api/AuthInterceptor_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/data/repository/AuthRepository_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/data/repository/ChatRepository_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/data/repository/UserRepository_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/data/socket/SocketManager_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideAuthServiceFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideChatServiceFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideLoggingInterceptorFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideOkHttpClientFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideRetrofitFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideSocketFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/di/NetworkModule_ProvideUserServiceFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/auth/AuthViewModel_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/auth/AuthViewModel_HiltModules.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/auth/AuthViewModel_HiltModules_KeyModule_ProvideFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/chat/ChatViewModel_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/chat/ChatViewModel_HiltModules.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/chat/ChatViewModel_HiltModules_KeyModule_ProvideFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/settings/SettingsViewModel_Factory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/settings/SettingsViewModel_HiltModules.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/com/manipai/ui/settings/SettingsViewModel_HiltModules_KeyModule_ProvideFactory.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/dagger/hilt/internal/aggregatedroot/codegen/_com_manipai_ManipAIApplication.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_MainActivity_GeneratedInjector.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ManipAIApplication_GeneratedInjector.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_di_NetworkModule.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_auth_AuthViewModel_HiltModules_BindsModule.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_auth_AuthViewModel_HiltModules_KeyModule.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_chat_ChatViewModel_HiltModules_BindsModule.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_chat_ChatViewModel_HiltModules_KeyModule.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_settings_SettingsViewModel_HiltModules_BindsModule.java
+ create mode 100644 android/app/build/generated/source/kapt/debug/hilt_aggregated_deps/_com_manipai_ui_settings_SettingsViewModel_HiltModules_KeyModule.java
+ create mode 100644 android/app/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+ create mode 100644 android/app/build/intermediates/app_metadata/debug/app-metadata.properties
+ create mode 100644 android/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json
+ create mode 100644 android/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar
+ create mode 100644 android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+ create mode 100644 android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+ create mode 100644 android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-af/values-af.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-am/values-am.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ar/values-ar.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-as/values-as.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-az/values-az.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-be/values-be.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bg/values-bg.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bn/values-bn.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bs/values-bs.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ca/values-ca.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-cs/values-cs.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-da/values-da.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-de/values-de.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-el/values-el.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es/values-es.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-et/values-et.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-eu/values-eu.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fa/values-fa.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fi/values-fi.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr/values-fr.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gl/values-gl.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gu/values-gu.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hi/values-hi.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hr/values-hr.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hu/values-hu.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hy/values-hy.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-in/values-in.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-is/values-is.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-it/values-it.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-iw/values-iw.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ja/values-ja.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ka/values-ka.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kk/values-kk.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-km/values-km.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kn/values-kn.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ko/values-ko.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ky/values-ky.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lo/values-lo.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lt/values-lt.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lv/values-lv.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mk/values-mk.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ml/values-ml.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mn/values-mn.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mr/values-mr.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ms/values-ms.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-my/values-my.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nb/values-nb.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ne/values-ne.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nl/values-nl.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-or/values-or.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pa/values-pa.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pl/values-pl.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt/values-pt.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ro/values-ro.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ru/values-ru.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-si/values-si.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sk/values-sk.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sl/values-sl.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sq/values-sq.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sr/values-sr.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sv/values-sv.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sw/values-sw.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ta/values-ta.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-te/values-te.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-th/values-th.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tl/values-tl.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tr/values-tr.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uk/values-uk.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ur/values-ur.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uz/values-uz.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v16/values-v16.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v21/values-v21.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-vi/values-vi.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zu/values-zu.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values/values.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+ create mode 100644 android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml
+ create mode 100644 android/app/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+ create mode 100644 android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml
+ create mode 100644 android/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+ create mode 100644 android/app/build/intermediates/incremental/mergeDebugShaders/merger.xml
+ create mode 100644 android/app/build/intermediates/local_only_symbol_list/debug/R-def.txt
+ create mode 100644 android/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+ create mode 100644 android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+ create mode 100644 android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml
+ create mode 100644 android/app/build/intermediates/merged_manifests/debug/output-metadata.json
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-af_values-af.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-am_values-am.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ar_values-ar.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-as_values-as.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-az_values-az.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-be_values-be.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-bg_values-bg.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-bn_values-bn.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-bs_values-bs.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ca_values-ca.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-cs_values-cs.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-da_values-da.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-de_values-de.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-el_values-el.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-en-rAU_values-en-rAU.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-en-rCA_values-en-rCA.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-en-rGB_values-en-rGB.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-en-rIN_values-en-rIN.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-en-rXC_values-en-rXC.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-es-rUS_values-es-rUS.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-es_values-es.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-et_values-et.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-eu_values-eu.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-fa_values-fa.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-fi_values-fi.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-fr-rCA_values-fr-rCA.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-fr_values-fr.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-gl_values-gl.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-gu_values-gu.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-hi_values-hi.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-hr_values-hr.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-hu_values-hu.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-hy_values-hy.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-in_values-in.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-is_values-is.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-it_values-it.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-iw_values-iw.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ja_values-ja.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ka_values-ka.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-kk_values-kk.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-km_values-km.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-kn_values-kn.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ko_values-ko.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ky_values-ky.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-lo_values-lo.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-lt_values-lt.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-lv_values-lv.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-mk_values-mk.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ml_values-ml.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-mn_values-mn.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-mr_values-mr.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ms_values-ms.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-my_values-my.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-nb_values-nb.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-nl_values-nl.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-or_values-or.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-pa_values-pa.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-pl_values-pl.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-pt-rBR_values-pt-rBR.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-pt-rPT_values-pt-rPT.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-pt_values-pt.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ro_values-ro.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ru_values-ru.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-si_values-si.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-sk_values-sk.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-sl_values-sl.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-sq_values-sq.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-sr_values-sr.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-sv_values-sv.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-sw_values-sw.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ta_values-ta.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-te_values-te.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-th_values-th.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-tl_values-tl.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-tr_values-tr.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-uk_values-uk.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-ur_values-ur.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-uz_values-uz.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-v16_values-v16.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-v21_values-v21.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-vi_values-vi.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-zh-rCN_values-zh-rCN.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-zh-rHK_values-zh-rHK.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-zh-rTW_values-zh-rTW.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values-zu_values-zu.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res/debug/values_values.arsc.flat
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ar.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-as.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-az.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+sr+Latn.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-be.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bg.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bn.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bs.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ca.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-cs.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-da.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-de.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-el.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rAU.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rCA.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rGB.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rIN.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rXC.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es-rUS.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-et.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-eu.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fa.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fi.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr-rCA.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gl.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gu.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hi.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hr.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hu.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hy.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-in.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-is.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-it.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-iw.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ja.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ka.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kk.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-km.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kn.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ko.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ky.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lo.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lt.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lv.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mk.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ml.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mn.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mr.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ms.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-my.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nb.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ne.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nl.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-or.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pa.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pl.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rBR.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rPT.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ro.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ru.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-si.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sk.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sl.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sq.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sr.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sv.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ta.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-te.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-th.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tl.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tr.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uk.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ur.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uz.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v16.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v21.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-vi.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rCN.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rHK.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json
+ create mode 100644 android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json
+ create mode 100644 android/app/build/intermediates/navigation_json/debug/navigation.json
+ create mode 100644 android/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml
+ create mode 100644 android/app/build/intermediates/packaged_manifests/debug/output-metadata.json
+ create mode 100644 android/app/build/intermediates/packaged_res/debug/values/values.xml
+ create mode 100644 android/app/build/intermediates/processed_res/debug/out/output-metadata.json
+ create mode 100644 android/app/build/intermediates/processed_res/debug/out/resources-debug.ap_
+ create mode 100644 android/app/build/intermediates/runtime_symbol_list/debug/R.txt
+ create mode 100644 android/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json
+ create mode 100644 android/app/build/intermediates/source_set_path_map/debug/file-map.txt
+ create mode 100644 android/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin
+ create mode 100644 android/app/build/kotlin/compileDebugKotlin/local-state/build-history.bin
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/last-build.bin
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin
+ create mode 100644 android/app/build/kotlin/kaptGenerateStubsDebugKotlin/local-state/build-history.bin
+ create mode 100644 android/app/build/outputs/logs/manifest-merger-debug-report.txt
+ create mode 100644 android/app/build/tmp/kapt3/incApCache/debug/ap-classpath-entries.bin
+ create mode 100644 android/app/build/tmp/kapt3/incApCache/debug/apt-cache.bin
+ create mode 100644 android/app/build/tmp/kapt3/incApCache/debug/classpath-entries.bin
+ create mode 100644 android/app/build/tmp/kapt3/incApCache/debug/classpath-structure.bin
+ create mode 100644 android/app/build/tmp/kapt3/incApCache/debug/java-cache.bin
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/META-INF/app_debug.kotlin_module
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/MainActivity.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/MainActivityKt.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ManipAIApplication.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/TokenManager.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/AuthInterceptor.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/AuthService.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/ChatService.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/CreateConversationRequest.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/DeleteResponse.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/LoginRequest.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/RegisterRequest.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/SendMessageRequest.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/SendMessageResponse.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/UpdateSettingsResponse.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/UserService.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/api/VerifyResponse.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/models/AiSettings.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/models/Conversation.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/models/LoginResponse.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/models/Message.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/models/RegisterResponse.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/models/Settings.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/models/User.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/models/UserStats.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/repository/AuthRepository.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/repository/ChatRepository.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/repository/UserRepository.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/data/socket/SocketManager.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/di/NetworkModule.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/AuthState$Authenticated.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/AuthState$Error.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/AuthState$Idle.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/AuthState$Loading.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/AuthState$RegistrationSuccess.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/AuthState.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/AuthViewModel.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/LoginScreenKt.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/auth/RegisterScreenKt.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/chat/ChatScreenKt.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/chat/ChatViewModel.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/chat/ConversationListScreenKt.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/settings/SettingsScreenKt.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/settings/SettingsViewModel.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/theme/ColorKt.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/theme/ThemeKt.class
+ create mode 100644 android/app/build/tmp/kapt3/incrementalData/debug/com/manipai/ui/theme/TypeKt.class
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/MainActivity.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/MainActivity.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/MainActivityKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/MainActivityKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ManipAIApplication.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ManipAIApplication.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/TokenManager.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/TokenManager.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/AuthInterceptor.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/AuthInterceptor.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/AuthService.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/AuthService.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/ChatService.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/ChatService.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/CreateConversationRequest.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/CreateConversationRequest.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/DeleteResponse.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/DeleteResponse.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/LoginRequest.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/LoginRequest.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/RegisterRequest.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/RegisterRequest.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/SendMessageRequest.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/SendMessageRequest.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/SendMessageResponse.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/SendMessageResponse.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/UpdateSettingsResponse.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/UpdateSettingsResponse.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/UserService.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/UserService.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/VerifyResponse.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/api/VerifyResponse.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/AiSettings.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/AiSettings.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/Conversation.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/Conversation.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/LoginResponse.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/LoginResponse.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/Message.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/Message.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/RegisterResponse.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/RegisterResponse.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/Settings.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/Settings.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/User.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/User.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/UserStats.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/models/UserStats.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/repository/AuthRepository.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/repository/AuthRepository.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/repository/ChatRepository.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/repository/ChatRepository.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/repository/UserRepository.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/repository/UserRepository.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/socket/SocketManager.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/data/socket/SocketManager.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/di/NetworkModule.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/di/NetworkModule.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/auth/AuthState.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/auth/AuthState.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/auth/AuthViewModel.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/auth/AuthViewModel.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/auth/LoginScreenKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/auth/LoginScreenKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/auth/RegisterScreenKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/auth/RegisterScreenKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/chat/ChatScreenKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/chat/ChatScreenKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/chat/ChatViewModel.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/chat/ChatViewModel.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/chat/ConversationListScreenKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/chat/ConversationListScreenKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/settings/SettingsScreenKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/settings/SettingsScreenKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/settings/SettingsViewModel.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/settings/SettingsViewModel.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/theme/ColorKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/theme/ColorKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/theme/ThemeKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/theme/ThemeKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/theme/TypeKt.java
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/com/manipai/ui/theme/TypeKt.kapt_metadata
+ create mode 100644 android/app/build/tmp/kapt3/stubs/debug/error/NonExistentClass.java
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/LiveLiterals$MainActivityKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/LiveLiterals$ManipAIApplicationKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivity$onCreate$1$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivity$onCreate$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivity$onCreate$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivity.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$1$2$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$1$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$1$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$3$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$4.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$5$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$5.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$6$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$6$2$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$6$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$6$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1$6.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt$AppNavigation$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/MainActivityKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ManipAIApplication.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/LiveLiterals$TokenManagerKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/TokenManager.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/AuthInterceptor.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/AuthService.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/ChatService.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/CreateConversationRequest.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/DeleteResponse.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/LiveLiterals$AuthInterceptorKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/LiveLiterals$AuthServiceKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/LiveLiterals$ChatServiceKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/LiveLiterals$UserServiceKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/LoginRequest.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/RegisterRequest.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/SendMessageRequest.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/SendMessageResponse.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/UpdateSettingsResponse.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/UserService.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/api/VerifyResponse.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/AiSettings.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/Conversation.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/LiveLiterals$ChatModelsKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/LiveLiterals$UserKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/LiveLiterals$UserModelsKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/LoginResponse.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/Message.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/RegisterResponse.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/Settings.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/User.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/models/UserStats.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/AuthRepository$getUserId$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/AuthRepository$login$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/AuthRepository$register$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/AuthRepository.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/ChatRepository$createConversation$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/ChatRepository$deleteConversation$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/ChatRepository$getConversations$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/ChatRepository$getMessages$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/ChatRepository$sendMessage$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/ChatRepository.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/LiveLiterals$AuthRepositoryKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/LiveLiterals$ChatRepositoryKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/LiveLiterals$UserRepositoryKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/UserRepository$getProfile$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/UserRepository$getSettings$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/UserRepository$getStats$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/UserRepository$updateSettings$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/repository/UserRepository.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/socket/LiveLiterals$SocketManagerKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/data/socket/SocketManager.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/di/LiveLiterals$NetworkModuleKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/di/NetworkModule.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthState$Authenticated.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthState$Error.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthState$Idle.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthState$Loading.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthState$RegistrationSuccess.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthState.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthViewModel$login$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthViewModel$register$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/AuthViewModel.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$LoginScreenKt$lambda-1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$LoginScreenKt$lambda-2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$LoginScreenKt$lambda-3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$LoginScreenKt$lambda-4$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$LoginScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$RegisterScreenKt$lambda-1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$RegisterScreenKt$lambda-2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$RegisterScreenKt$lambda-3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$RegisterScreenKt$lambda-4$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$RegisterScreenKt$lambda-5$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/ComposableSingletons$RegisterScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LiveLiterals$AuthViewModelKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LiveLiterals$LoginScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LiveLiterals$RegisterScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LoginScreenKt$LoginScreen$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LoginScreenKt$LoginScreen$2$1$1$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LoginScreenKt$LoginScreen$2$1$1$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LoginScreenKt$LoginScreen$2$1$1$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LoginScreenKt$LoginScreen$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LoginScreenKt$LoginScreen$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/LoginScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/RegisterScreenKt$RegisterScreen$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/RegisterScreenKt$RegisterScreen$2$1$1$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/RegisterScreenKt$RegisterScreen$2$1$1$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/RegisterScreenKt$RegisterScreen$2$1$1$3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/RegisterScreenKt$RegisterScreen$2$1$1$4.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/RegisterScreenKt$RegisterScreen$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/RegisterScreenKt$RegisterScreen$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/auth/RegisterScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$4$1$1$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$4$1$1$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$4$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$4.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$5$1$1$invoke$$inlined$items$default$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$5$1$1$invoke$$inlined$items$default$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$5$1$1$invoke$$inlined$items$default$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$5$1$1$invoke$$inlined$items$default$4.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$5$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$5.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$ChatScreen$6.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$MessageBubble$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt$MessageBubble$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$createConversation$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$deleteConversation$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$loadConversations$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$loadMessages$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$sendMessage$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$setupSocket$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$setupSocket$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$setupSocket$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel$setupSocket$4.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ChatViewModel.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ChatScreenKt$lambda-1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ChatScreenKt$lambda-2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ChatScreenKt$lambda-3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ChatScreenKt$lambda-4$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ChatScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ConversationListScreenKt$lambda-1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ConversationListScreenKt$lambda-2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ConversationListScreenKt$lambda-3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ConversationListScreenKt$lambda-4$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ConversationListScreenKt$lambda-5$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ComposableSingletons$ConversationListScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationItem$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationItem$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$4$3$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$4$3$1$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$4$3$invoke$$inlined$items$default$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$4$3$invoke$$inlined$items$default$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$4$3$invoke$$inlined$items$default$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$4$3$invoke$$inlined$items$default$4.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$4$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$4.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt$ConversationListScreen$5.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/ConversationListScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/LiveLiterals$ChatScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/LiveLiterals$ChatViewModelKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/chat/LiveLiterals$ConversationListScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-10$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-11$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-2$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-3$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-4$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-5$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-6$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-7$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-8$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt$lambda-9$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/ComposableSingletons$SettingsScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/LiveLiterals$SettingsScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/LiveLiterals$SettingsViewModelKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$PreferenceItem$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$PreferenceItem$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$4$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$4$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$4$4$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$4$5$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$4$6$1$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$4$6$1$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$4$6.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$5.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$6.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2$1$7.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$SettingsScreen$3.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$StatCard$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt$StatCard$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsScreenKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsViewModel$loadSettings$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsViewModel$loadStats$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsViewModel$updateAiSettings$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsViewModel$updateLanguage$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsViewModel$updateTheme$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/settings/SettingsViewModel.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/theme/ColorKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/theme/LiveLiterals$ThemeKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/theme/ThemeKt$ManipAITheme$1.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/theme/ThemeKt$ManipAITheme$2.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/theme/ThemeKt.class
+ create mode 100644 android/app/build/tmp/kotlin-classes/debug/com/manipai/ui/theme/TypeKt.class
+ create mode 100644 android/app/proguard-rules.pro
+ create mode 100644 android/app/src/main/AndroidManifest.xml
+ create mode 100644 android/app/src/main/java/com/manipai/MainActivity.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ManipAIApplication.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/TokenManager.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/api/AuthInterceptor.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/api/AuthService.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/api/ChatService.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/api/UserService.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/models/ChatModels.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/models/User.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/models/UserModels.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/repository/AuthRepository.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/repository/ChatRepository.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/repository/UserRepository.kt
+ create mode 100644 android/app/src/main/java/com/manipai/data/socket/SocketManager.kt
+ create mode 100644 android/app/src/main/java/com/manipai/di/NetworkModule.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/auth/AuthViewModel.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/auth/LoginScreen.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/auth/RegisterScreen.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/chat/ChatScreen.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/chat/ChatViewModel.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/chat/ConversationListScreen.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/settings/SettingsScreen.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/settings/SettingsViewModel.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/theme/Color.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/theme/Theme.kt
+ create mode 100644 android/app/src/main/java/com/manipai/ui/theme/Type.kt
+ create mode 100644 android/app/src/main/res/values/strings.xml
+ create mode 100644 android/app/src/main/res/values/themes.xml
+ create mode 100644 android/app/src/test/java/com/manipai/data/repository/AuthRepositoryTest.kt
+ create mode 100644 android/app/src/test/java/com/manipai/data/repository/ChatRepositoryTest.kt
+ create mode 100644 android/build.gradle
+ create mode 100644 android/build/reports/problems/problems-report.html
+ create mode 100644 android/gradle.properties
+ create mode 100644 android/gradle/wrapper/gradle-wrapper.jar
+ create mode 100644 android/gradle/wrapper/gradle-wrapper.properties
+ create mode 100644 android/gradlew
+ create mode 100644 android/gradlew.bat
+ create mode 100644 android/local.properties
+ create mode 100644 android/settings.gradle
+ create mode 100644 public/css/style.css
+ create mode 100644 public/js/app.js
+ create mode 100644 server.js
