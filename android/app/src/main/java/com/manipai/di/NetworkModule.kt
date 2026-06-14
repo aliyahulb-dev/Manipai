@@ -20,7 +20,7 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 object NetworkModule {
 
-    private const val BASE_URL = "http://10.0.0.96:3000/" // Local IP for Physical Device
+    private const val BASE_URL = "https://manipai.onrender.com/" // Production Cloud URL
 
     @Provides
     @Singleton

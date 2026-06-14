@@ -59,6 +59,21 @@ npm run dev
 npm start
 ```
 
+## Mobile Applications
+
+### Android App
+The project includes a native Android application built with Jetpack Compose and Hilt.
+
+#### Development
+1. Open the `android` folder in Android Studio.
+2. Update `BASE_URL` in `NetworkModule.kt` to point to your backend.
+3. Build and run on an emulator or physical device.
+
+#### Publishing
+1. Change `BASE_URL` to your production cloud URL (e.g., `https://manipai.onrender.com/`).
+2. Go to **Build > Generate Signed Bundle / APK**.
+3. Follow the wizard to create a release key and generate an `.aab` file for the Google Play Store.
+
 ## API Endpoints
 
 ### Authentication
